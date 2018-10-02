@@ -1,8 +1,6 @@
-# treeoftheusa
+# Tree of the USA
 
-
-
-Tree of the USA
+![alt text](https://github.com/basedweegee/treeoftheusa/blob/master/appIcon.png)
 
 'The Best Way to Know about the USA Branches of Government'
 
@@ -15,3 +13,13 @@ In the executive branch (President), you can see information of the presidents' 
 In the legislative branch (Congress), you can see information of the congressmen' website, social media, C-SPAN, votes, or sponsored bills.
 
 In the judicial branch (Supreme Court), you can see information of the Supreme Court justice bio, terms opinions of the court, C-SPAN, oral arguments, or speeches.
+
+------------------------
+
+Go to https://xjg5xx.wixsite.com/treeoftheusa for more details
+
+Created by Jose Gonzalez - https://www.linkedin.com/in/josegonzalezios/
+
+------------------------
+
+'Tree of the USA' uses UITableView, UIScrollView, AlamoFire (https://github.com/Alamofire/Alamofire), Haneke(https://github.com/Haneke/HanekeSwift), DeviceKit(https://github.com/dennisweissmann/DeviceKit), GEOSwift(https://github.com/GEOSwift/GEOSwift), CLLocationManager (GPS), PMAlertViewController(https://github.com/pmusolino/PMAlertController), SwiftSpinner(https://github.com/icanzilb/SwiftSpinner), Async(https://github.com/duemunk/Async), WKWebView, district geojson (https://github.com/unitedstates/districts)
